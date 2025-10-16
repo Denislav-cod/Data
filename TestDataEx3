@@ -1,72 +1,11 @@
-[
-  {
-    "Name": "Student 1",
-    "Marks": 92,
-    "Attendance": 88,
-    "GoodBehavior": true,
-    "Grade": "A"
-  },
-  {
-    "Name": "Student 2",
-    "Marks": 76,
-    "Attendance": 81,
-    "GoodBehavior": false,
-    "Grade": "C"
-  },
-  {
-    "Name": "Student 3",
-    "Marks": 64,
-    "Attendance": 95,
-    "GoodBehavior": true,
-    "Grade": "D"
-  },
-  {
-    "Name": "Student 4",
-    "Marks": 48,
-    "Attendance": 70,
-    "GoodBehavior": true,
-    "Grade": "F"
-  },
-  {
-    "Name": "Student 5",
-    "Marks": 85,
-    "Attendance": 60,
-    "GoodBehavior": false,
-    "Grade": "B"
-  },
-  {
-    "Name": "Student 6",
-    "Marks": 59,
-    "Attendance": 78,
-    "GoodBehavior": true,
-    "Grade": "F"
-  },
-  {
-    "Name": "Student 7",
-    "Marks": 33,
-    "Attendance": 90,
-    "GoodBehavior": false,
-    "Grade": "F"
-  },
-  {
-    "Name": "Student 8",
-    "Marks": 97,
-    "Attendance": 99,
-    "GoodBehavior": true,
-    "Grade": "A"
-  },
-  {
-    "Name": "Student 9",
-    "Marks": 72,
-    "Attendance": 82,
-    "GoodBehavior": true,
-    "Grade": "C"
-  },
-  {
-    "Name": "Student 10",
-    "Marks": 55,
-    "Attendance": 69,
-    "GoodBehavior": false,
-    "Grade": "F"
-  }
-]
+Name,Marks,Attendance,GoodBehavior,Grade
+Student 1,92,88,TRUE,A
+Student 2,76,81,FALSE,C
+Student 3,64,95,TRUE,D
+Student 4,48,70,TRUE,F
+Student 5,85,60,FALSE,B
+Student 6,59,78,TRUE,F
+Student 7,33,90,FALSE,F
+Student 8,97,99,TRUE,A
+Student 9,72,82,TRUE,C
+Student 10,55,69,FALSE,F
